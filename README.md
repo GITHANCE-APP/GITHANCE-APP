@@ -3,7 +3,7 @@
 </div>
 
 
-<h4>GITHANCE CORP.&nbsp;</h4><h6>builds Githance, a platform that transforms GitHub profiles into clean, professional personal brands. Specializes in portfolio optimization and developer branding solutions. Helps developers showcase projects, highlight skills, and create intentional, modern profiles that stand out. Based in Rajasthan, India.</h6>
+<h4>GITHANCE CORP.&nbsp;</h4><h6>builds Githance, a platform that transforms GitHub profiles into clean, professional personal brands. Specializes in portfolio optimization and developer branding solutions. Helps developers showcase projects and create intentional, modern profiles that stand out. Based in Rajasthan, India.</h6>
 
 
 ## Repo Commit Stats
