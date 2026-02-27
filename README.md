@@ -2,6 +2,7 @@
   <img src="https://githance.vercel.app/api/render?type=header&variant=signal&v=rect-v2&name=GITHANCE&subtitle=Building+thoughtful+software&theme=midnight&a=Open+Source&a=Design+Systems" alt="Custom header" />
 </div>
 
+to check
 
 <h4>GITHANCE CORP.</h4><h6>&nbsp;builds Githance, a platform that transforms GitHub profiles into clean, professional personal brands. Specializes in portfolio optimization and developer branding. Uses React to create customizable, modern profiles that showcase projects and highlight skills. Helps developers make powerful first impressions with intentional, standout profiles.</h6>
 
