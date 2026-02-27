@@ -1,3 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Your%20Name&fontSize=38&fontAlignY=35&desc=Design%20%2B%20Code&descAlignY=60" />
-</div>
+## Repo Commit Stats
+
+
+<p align="center">
+  <img src="./assets/githance/contribution-summary.svg" alt="Contribution summary" width="360" />
+</p>
+
+
+<p>GITHANCE CORP. builds Githance, a platform that transforms GitHub profiles into clean, professional personal brands. Specializes in portfolio optimization and developer branding. Creates tools that help developers showcase projects, highlight skills, and make powerful first impressions. Focuses on modern, intentional profile design that stands out. Based in Rajasthan, India.</p>
