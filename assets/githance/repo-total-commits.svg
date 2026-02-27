@@ -18,6 +18,6 @@
   <text x="24" y="54" class="sub">@githance-app</text>
 
   <rect x="24" y="68" width="452" height="54" rx="10" fill="#111827" stroke="#1e293b" />
-  <text x="38" y="98" class="value">12</text>
+  <text x="38" y="98" class="value">20</text>
   <text x="24" y="138" class="caption">Across connected repositories</text>
 </svg>
