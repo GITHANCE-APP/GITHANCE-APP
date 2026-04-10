@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=tortoise&v=rect-v4&user=lucky&range=yearly&layers=%5B%7B%22id%22%3A%22sticker-layer-1775814510318-629050%22%2C%22stickerId%22%3A%22tortoise%22%2C%22x%22%3A0.8985713958740235%2C%22y%22%3A0.5481249809265136%2C%22sizePx%22%3A260%2C%22rotation%22%3A0%7D%5D" alt="Contribution graph" />
+  <img src="https://githance.in/api/render?type=contribution-heatmap&variant=tortoise&v=rect-v4&user=lucky&range=yearly&layers=%5B%7B%22id%22%3A%22sticker-layer-1775814510318-629050%22%2C%22stickerId%22%3A%22tortoise%22%2C%22x%22%3A0.9035714830671038%2C%22y%22%3A0.5631249904632568%2C%22sizePx%22%3A160%2C%22rotation%22%3A0%7D%5D" alt="Contribution graph" />
 </p>
 
 
